@@ -1,4 +1,4 @@
- "ya sdam" "hi hi ha ha "
+"da ya sdam" "ya sdam" "hi hi ha ha "
 # 🚧 🚧 🚧
 ## react-native-camera is deprecated.
 
