@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 "hi hi ha ha " "da ya sdam"
+=======
+"hi hi ha ha "
+>>>>>>> branch1
 # 🚧 🚧 🚧
 ## react-native-camera is deprecated.
 
@@ -15,4 +19,8 @@ You can support the development of VisionCamera by [sponsoring **@mrousavy** on 
 > You can find the old code of react-native-camera [here](https://github.com/react-native-camera/react-native-camera/tree/master).
 
 > See [this issue](https://github.com/react-native-community/react-native-camera/issues/3000) for more details.
+<<<<<<< HEAD
 "ya sdam"
+=======
+"ponyal" "da da "
+>>>>>>> branch1
